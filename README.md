@@ -15,11 +15,20 @@ En esta práctica se elabora un caso práctico orientado a aprender a identifica
 ## Requisitos y dependencias
 
 Las librerías necesarias para la correcta ejecución del proyecto se encuentran especificadas en `requirements.txt`.
-Se pueden instalar de la sigiente manera:
+Se pueden instalar de la siguiente manera:
 ```
 $ pip install -r requirements.txt
 ```
 ## Estructura del proyecto
+
+    .
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
 
 ## Licencia
 
