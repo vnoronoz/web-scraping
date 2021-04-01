@@ -22,11 +22,11 @@ $ pip install -r requirements.txt
 ## Estructura del proyecto
 
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
+    ├── dataset                 # Final resulting dataset
+    ├── docs                    # Documentation files & result PDF with the required answers
+    ├── images                  # Image files for documentation
+    ├── src                     # Source files (`.ipynb` format)
+    ├── requirements.txt        # Libraries and dependencies
     ├── LICENSE
     └── README.md
 
