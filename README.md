@@ -1,5 +1,7 @@
 # Práctica 1: Web scraping
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4677100.svg)](https://doi.org/10.5281/zenodo.4677100)
+
 Repositorio creado para la Práctica 1 de la asignatura Tipología y Ciclo de Vida de los Datos del Máster de Ciencia de Datos de la UOC.
 
 ## Descripción
